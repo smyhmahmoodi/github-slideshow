@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide"
 ---
-"Your text"
+"This is to change a file in a branch"
 Use the left arrow to get back!
